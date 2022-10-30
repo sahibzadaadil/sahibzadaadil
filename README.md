@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahibzadaadil&label=Profile%20views&color=0e75b6&style=flat" alt="sahibzadaadil" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Multi-modal Transformer for Video Forgery Detection**
+- 🔭 I’m currently working on **Multimedia Forensics**
 
-- 👯 I’m looking to collaborate on **Media Forensics**
+- 👯 I’m looking to collaborate on **Media Forensics, Forgery Detection and Deepfake Generation**
 
 - 👨‍💻 Access my Portfolio [https://sahibzadaadil.github.io](https://sahibzadaadil.github.io)
 
